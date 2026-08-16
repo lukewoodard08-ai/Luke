@@ -1,0 +1,871 @@
+{
+ "rows": [
+  {
+   "n": 1,
+   "timestamp": "0:00",
+   "job_index": 1,
+   "job_id": "9081ea27-0480-4f90-b780-96600ab5a66c",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233009_9081ea27-0480-4f90-b780-96600ab5a66c.png",
+   "caption": "Wake up on the mud roof beside the Nile",
+   "file": "01_0-00.png"
+  },
+  {
+   "n": 2,
+   "timestamp": "0:07",
+   "job_index": 2,
+   "job_id": "67f6034e-05c1-42a2-b764-3b42e2d46623",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233451_67f6034e-05c1-42a2-b764-3b42e2d46623.png",
+   "caption": "No coffee, no weekend, and a man with a blank scroll",
+   "file": "02_0-07.png"
+  },
+  {
+   "n": 3,
+   "timestamp": "0:13",
+   "job_index": 3,
+   "job_id": "092f0296-6c42-4b45-a6b1-39201ef784ec",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233451_092f0296-6c42-4b45-a6b1-39201ef784ec.png",
+   "caption": "Your grain, and roughly 14 hours to survive",
+   "file": "03_0-13.png"
+  },
+  {
+   "n": 4,
+   "timestamp": "0:22",
+   "job_index": 4,
+   "job_id": "24a042de-c3a4-4422-91b6-2091362c17b0",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233451_24a042de-c3a4-4422-91b6-2091362c17b0.png",
+   "caption": "Not a pharaoh, not a priest, statistically a farmer",
+   "file": "04_0-22.png"
+  },
+  {
+   "n": 5,
+   "timestamp": "0:28",
+   "job_index": 5,
+   "job_id": "dc97e4c1-d903-4a2f-8de2-7f785614b9ca",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233451_dc97e4c1-d903-4a2f-8de2-7f785614b9ca.png",
+   "caption": "A mud brick house in a village you'll never leave",
+   "file": "05_0-28.png"
+  },
+  {
+   "n": 6,
+   "timestamp": "0:34",
+   "job_index": 6,
+   "job_id": "c38a4c4e-1ea9-4d87-9f11-6409ee6deefe",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233451_c38a4c4e-1ea9-4d87-9f11-6409ee6deefe.png",
+   "caption": "3000 years of history, so we pick the New Kingdom",
+   "file": "06_0-34.png"
+  },
+  {
+   "n": 7,
+   "timestamp": "0:40",
+   "job_index": 7,
+   "job_id": "6d7b4197-f365-4c16-8980-0d730009d082",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_234801_6d7b4197-f365-4c16-8980-0d730009d082.png",
+   "caption": "The stretch with the most everyday evidence: houses, receipts",
+   "file": "07_0-40.png",
+   "regenerated": true
+  },
+  {
+   "n": 8,
+   "timestamp": "0:46",
+   "job_index": 8,
+   "job_id": "d1cf14f9-7e29-45cb-b13d-505d31d0d60d",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233451_d1cf14f9-7e29-45cb-b13d-505d31d0d60d.png",
+   "caption": "Sick notes and arguments. Right, get up",
+   "file": "08_0-46.png"
+  },
+  {
+   "n": 9,
+   "timestamp": "0:54",
+   "job_index": 9,
+   "job_id": "e84be06f-8d15-419a-bc77-113670ab6ef7",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233451_e84be06f-8d15-419a-bc77-113670ab6ef7.png",
+   "caption": "Nile mud mixed with straw, dried in the sun",
+   "file": "09_0-54.png"
+  },
+  {
+   "n": 10,
+   "timestamp": "1:01",
+   "job_index": 10,
+   "job_id": "baffadcd-35a7-4366-bdf5-8796b418ccd1",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233451_baffadcd-35a7-4366-bdf5-8796b418ccd1.png",
+   "caption": "Thick walls, tiny high windows, cool inside",
+   "file": "10_1-01.png"
+  },
+  {
+   "n": 11,
+   "timestamp": "1:07",
+   "job_index": 11,
+   "job_id": "6ab39515-ee5a-4de3-8e0e-ff7620e62589",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233451_6ab39515-ee5a-4de3-8e0e-ff7620e62589.png",
+   "caption": "The roof is kitchen, storage and spare bedroom",
+   "file": "11_1-07.png"
+  },
+  {
+   "n": 12,
+   "timestamp": "1:13",
+   "job_index": 12,
+   "job_id": "f7b64b0f-8e81-4225-a0c7-f475f9259df0",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233451_f7b64b0f-8e81-4225-a0c7-f475f9259df0.png",
+   "caption": "Shared with too many relatives, and mice",
+   "file": "12_1-13.png"
+  },
+  {
+   "n": 13,
+   "timestamp": "1:19",
+   "job_index": 13,
+   "job_id": "46259581-aeea-4215-9a37-bbdaaf893f2a",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233451_46259581-aeea-4215-9a37-bbdaaf893f2a.png",
+   "caption": "Linen from flax: a kilt and a straight dress",
+   "file": "13_1-19.png"
+  },
+  {
+   "n": 14,
+   "timestamp": "1:26",
+   "job_index": 14,
+   "job_id": "67a32845-c79d-4ee1-bf65-73b9eac021f1",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233522_67a32845-c79d-4ee1-bf65-73b9eac021f1.png",
+   "caption": "Children wore nothing; nearly everyone wore eye paint",
+   "file": "14_1-26.png"
+  },
+  {
+   "n": 15,
+   "timestamp": "1:33",
+   "job_index": 15,
+   "job_id": "38c6b3fb-5d40-4e7f-a28b-67062f8028f3",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233522_38c6b3fb-5d40-4e7f-a28b-67062f8028f3.png",
+   "caption": "Ground galena that cut the glare like an athlete",
+   "file": "15_1-33.png"
+  },
+  {
+   "n": 16,
+   "timestamp": "1:40",
+   "job_index": 16,
+   "job_id": "c99fec4e-71e7-42b1-b34a-222a8d0dfbf3",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233522_c99fec4e-71e7-42b1-b34a-222a8d0dfbf3.png",
+   "caption": "Two lead compounds that don't occur naturally in Egypt",
+   "file": "16_1-40.png"
+  },
+  {
+   "n": 17,
+   "timestamp": "1:46",
+   "job_index": 17,
+   "job_id": "3402701a-739c-48d7-adfa-0a0cef1232bb",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233522_3402701a-739c-48d7-adfa-0a0cef1232bb.png",
+   "caption": "Somebody was manufacturing them deliberately, over weeks",
+   "file": "17_1-46.png"
+  },
+  {
+   "n": 18,
+   "timestamp": "1:52",
+   "job_index": 18,
+   "job_id": "371719a9-8e49-4773-a6ff-6edab041564c",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233522_371719a9-8e49-4773-a6ff-6edab041564c.png",
+   "caption": "A lab study: an immune signal boosted in cultured cells",
+   "file": "18_1-52.png"
+  },
+  {
+   "n": 19,
+   "timestamp": "1:58",
+   "job_index": 19,
+   "job_id": "3cc0a2b5-b173-44de-866d-6d42dcf63ffc",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233522_3cc0a2b5-b173-44de-866d-6d42dcf63ffc.png",
+   "caption": "Bread and beer for breakfast, lunch and dinner",
+   "file": "19_1-58.png"
+  },
+  {
+   "n": 20,
+   "timestamp": "2:07",
+   "job_index": 20,
+   "job_id": "a8ffaa75-80ce-454c-94f6-8fb3ff1de6b6",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233522_a8ffaa75-80ce-454c-94f6-8fb3ff1de6b6.png",
+   "caption": "Beer thick and filling, closer to porridge",
+   "file": "20_2-07.png"
+  },
+  {
+   "n": 21,
+   "timestamp": "2:14",
+   "job_index": 21,
+   "job_id": "0fea5ae1-7081-496c-b2b2-b30b691ff1f2",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233522_0fea5ae1-7081-496c-b2b2-b30b691ff1f2.png",
+   "caption": "Onions, dates, cucumbers, fish, and festival meat",
+   "file": "21_2-14.png"
+  },
+  {
+   "n": 22,
+   "timestamp": "2:23",
+   "job_index": 22,
+   "job_id": "cf1e1e3c-25aa-448c-a45a-26cba56e4845",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233522_cf1e1e3c-25aa-448c-a45a-26cba56e4845.png",
+   "caption": "Grain ground on stone, grit shed into the flour",
+   "file": "22_2-23.png"
+  },
+  {
+   "n": 23,
+   "timestamp": "2:30",
+   "job_index": 23,
+   "job_id": "67f33289-b36e-499d-848e-36a4009bb7b8",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233522_67f33289-b36e-499d-848e-36a4009bb7b8.png",
+   "caption": "Skulls with teeth worn flat and abscesses in the jaw",
+   "file": "23_2-30.png"
+  },
+  {
+   "n": 24,
+   "timestamp": "2:36",
+   "job_index": 24,
+   "job_id": "5f99f04a-b277-45f4-b4e1-149e18c2e54e",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233522_5f99f04a-b277-45f4-b4e1-149e18c2e54e.png",
+   "caption": "And there were no dentists",
+   "file": "24_2-36.png"
+  },
+  {
+   "n": 25,
+   "timestamp": "2:42",
+   "job_index": 25,
+   "job_id": "66532b0d-e360-47dd-a527-8ffbf76a3e8c",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233522_66532b0d-e360-47dd-a527-8ffbf76a3e8c.png",
+   "caption": "Once a year the Nile floods and drops black silt",
+   "file": "25_2-42.png"
+  },
+  {
+   "n": 26,
+   "timestamp": "2:47",
+   "job_index": 26,
+   "job_id": "d491d8e9-406b-4fc4-8de8-0e7c891d4416",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233601_d491d8e9-406b-4fc4-8de8-0e7c891d4416.png",
+   "caption": "The Black Land, named after the mud not the sand",
+   "file": "26_2-47.png"
+  },
+  {
+   "n": 27,
+   "timestamp": "2:54",
+   "job_index": 27,
+   "job_id": "a7c1f8d5-fe95-4866-b9b0-2bb8440db5fe",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233601_a7c1f8d5-fe95-4866-b9b0-2bb8440db5fe.png",
+   "caption": "Three seasons: the flood, the growing, the harvest",
+   "file": "27_2-54.png"
+  },
+  {
+   "n": 28,
+   "timestamp": "3:01",
+   "job_index": 28,
+   "job_id": "3ff859d5-de96-42cf-aa13-7c0844430305",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233601_3ff859d5-de96-42cf-aa13-7c0844430305.png",
+   "caption": "Fields underwater, so the state puts you to work",
+   "file": "28_3-01.png"
+  },
+  {
+   "n": 29,
+   "timestamp": "3:06",
+   "job_index": 29,
+   "job_id": "927fd336-d3e8-4509-9b8c-bd79e8328dcc",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233601_927fd336-d3e8-4509-9b8c-bd79e8328dcc.png",
+   "caption": "Not slavery, closer to conscripted labour",
+   "file": "29_3-06.png"
+  },
+  {
+   "n": 30,
+   "timestamp": "3:12",
+   "job_index": 30,
+   "job_id": "0f32509b-8020-436c-aa5a-d04831e11bac",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233601_0f32509b-8020-436c-aa5a-d04831e11bac.png",
+   "caption": "Fed, housed, and written down by name",
+   "file": "30_3-12.png"
+  },
+  {
+   "n": 31,
+   "timestamp": "3:17",
+   "job_index": 31,
+   "job_id": "7d3b9506-3d9f-4e5a-a38e-1d9736593450",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233601_7d3b9506-3d9f-4e5a-a38e-1d9736593450.png",
+   "caption": "Pyramid builders: job titles, ration lists, their own cemetery",
+   "file": "31_3-17.png"
+  },
+  {
+   "n": 32,
+   "timestamp": "3:25",
+   "job_index": 32,
+   "job_id": "6e2aed0a-bea2-4860-8599-999c3a4a5c8e",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233601_6e2aed0a-bea2-4860-8599-999c3a4a5c8e.png",
+   "caption": "Bread, beer and a surprising amount of beef",
+   "file": "32_3-25.png"
+  },
+  {
+   "n": 33,
+   "timestamp": "3:31",
+   "job_index": 33,
+   "job_id": "0b82c8c5-3209-4426-9adf-1de0bf35b63b",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233601_0b82c8c5-3209-4426-9adf-1de0bf35b63b.png",
+   "caption": "The Great Pyramid is already over a thousand years old",
+   "file": "33_3-31.png"
+  },
+  {
+   "n": 34,
+   "timestamp": "3:37",
+   "job_index": 34,
+   "job_id": "9ecf966c-af4f-4e18-acac-069e571c1ac3",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_234801_9ecf966c-af4f-4e18-acac-069e571c1ac3.png",
+   "caption": "As ancient to you as Charlemagne is to a modern viewer",
+   "file": "34_3-37.png",
+   "regenerated": true
+  },
+  {
+   "n": 35,
+   "timestamp": "3:44",
+   "job_index": 36,
+   "job_id": "3c6b59b4-f3bb-4666-b329-f4f9b49135c7",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233601_3c6b59b4-f3bb-4666-b329-f4f9b49135c7.png",
+   "caption": "Flood height sets your taxes",
+   "file": "35_3-44.png"
+  },
+  {
+   "n": 36,
+   "timestamp": "3:51",
+   "job_index": 37,
+   "job_id": "c8e9a698-ea57-400f-8f3b-1abb214fd056",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233601_c8e9a698-ea57-400f-8f3b-1abb214fd056.png",
+   "caption": "Too high, and your village is underwater",
+   "file": "36_3-51.png"
+  },
+  {
+   "n": 37,
+   "timestamp": "3:58",
+   "job_index": 38,
+   "job_id": "6a11dc36-984d-4497-b3d5-462d61411f49",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233631_6a11dc36-984d-4497-b3d5-462d61411f49.png",
+   "caption": "Scribes measure your field and claim a share",
+   "file": "37_3-58.png"
+  },
+  {
+   "n": 38,
+   "timestamp": "4:04",
+   "job_index": 39,
+   "job_id": "04000bea-8802-4dd4-a9ce-7b68ad46ce53",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233631_04000bea-8802-4dd4-a9ce-7b68ad46ce53.png",
+   "caption": "Farmers dragged in front of the assessors",
+   "file": "38_4-04.png"
+  },
+  {
+   "n": 39,
+   "timestamp": "4:10",
+   "job_index": 40,
+   "job_id": "9dd2cf88-669b-44b6-a3c8-a7a66d01350c",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233631_9dd2cf88-669b-44b6-a3c8-a7a66d01350c.png",
+   "caption": "Nobody painted it as a scandal. It was just Tuesday",
+   "file": "39_4-10.png"
+  },
+  {
+   "n": 40,
+   "timestamp": "4:17",
+   "job_index": 41,
+   "job_id": "ae9552f5-0f93-4366-82a9-24eb0835d3c3",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233631_ae9552f5-0f93-4366-82a9-24eb0835d3c3.png",
+   "caption": "Builders, soldiers, priests, and scribes at the top",
+   "file": "40_4-17.png"
+  },
+  {
+   "n": 41,
+   "timestamp": "4:24",
+   "job_index": 42,
+   "job_id": "af81c1d7-af98-4dee-ad89-a40c9f7258c3",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233631_af81c1d7-af98-4dee-ad89-a40c9f7258c3.png",
+   "caption": "A scribe lifted nothing. A scribe paid less",
+   "file": "41_4-24.png"
+  },
+  {
+   "n": 42,
+   "timestamp": "4:30",
+   "job_index": 43,
+   "job_id": "e802f7b2-ada8-483c-bf12-927fc7b7af6d",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233631_e802f7b2-ada8-483c-bf12-927fc7b7af6d.png",
+   "caption": "Schoolboys handed a text about every other trade",
+   "file": "42_4-30.png"
+  },
+  {
+   "n": 43,
+   "timestamp": "4:36",
+   "job_index": 44,
+   "job_id": "be9d9fc6-169a-47c9-95a6-551b415ff036",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233631_be9d9fc6-169a-47c9-95a6-551b415ff036.png",
+   "caption": "Every trade described as filthy: careers propaganda",
+   "file": "43_4-36.png"
+  },
+  {
+   "n": 44,
+   "timestamp": "4:44",
+   "job_index": 45,
+   "job_id": "b8efb4de-ce3b-4ab4-a750-bbc27f30af7b",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233631_b8efb4de-ce3b-4ab4-a750-bbc27f30af7b.png",
+   "caption": "The enormous temples you were never allowed inside",
+   "file": "44_4-44.png"
+  },
+  {
+   "n": 45,
+   "timestamp": "4:50",
+   "job_index": 46,
+   "job_id": "746aa29b-ea8a-48ed-a2f2-d124599ad7d2",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_234918_746aa29b-ea8a-48ed-a2f2-d124599ad7d2.png",
+   "caption": "The god's house, staffed by priests, closed to the public",
+   "file": "45_4-50.png",
+   "regenerated": true
+  },
+  {
+   "n": 46,
+   "timestamp": "4:56",
+   "job_index": 47,
+   "job_id": "9172c7b7-e7dd-4951-9a75-ea2fb5c4824d",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233631_9172c7b7-e7dd-4951-9a75-ea2fb5c4824d.png",
+   "caption": "Festivals: the god carried out in a boat",
+   "file": "46_4-56.png"
+  },
+  {
+   "n": 47,
+   "timestamp": "5:01",
+   "job_index": 48,
+   "job_id": "884ada0e-8c8a-4dc0-abe8-d3593eb1625d",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233631_884ada0e-8c8a-4dc0-abe8-d3593eb1625d.png",
+   "caption": "Your actual religion happened at home",
+   "file": "47_5-01.png"
+  },
+  {
+   "n": 48,
+   "timestamp": "5:08",
+   "job_index": 49,
+   "job_id": "e2f9405c-eb27-4245-865f-8b3bfb6ccec7",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233631_e2f9405c-eb27-4245-865f-8b3bfb6ccec7.png",
+   "caption": "Bes and Tawaret on the shelf",
+   "file": "48_5-08.png"
+  },
+  {
+   "n": 49,
+   "timestamp": "5:14",
+   "job_index": 50,
+   "job_id": "b50f8def-1e88-4b22-991d-92b9bde48aeb",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233711_b50f8def-1e88-4b22-991d-92b9bde48aeb.png",
+   "caption": "A hippo goddess with a crocodile down her back",
+   "file": "49_5-14.png"
+  },
+  {
+   "n": 50,
+   "timestamp": "5:20",
+   "job_index": 51,
+   "job_id": "32134d56-f9fd-4b98-ba29-0a466af8330f",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_234802_32134d56-f9fd-4b98-ba29-0a466af8330f.png",
+   "caption": "The two most dangerous animals, reassigned as babysitters",
+   "file": "50_5-20.png",
+   "regenerated": true
+  },
+  {
+   "n": 51,
+   "timestamp": "5:26",
+   "job_index": 52,
+   "job_id": "b56ea7b2-28e9-4f6b-ae08-601c2afd1e5c",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_234801_b56ea7b2-28e9-4f6b-ae08-601c2afd1e5c.png",
+   "caption": "Painted busts of dead relatives, and food left for them",
+   "file": "51_5-26.png",
+   "regenerated": true
+  },
+  {
+   "n": 52,
+   "timestamp": "5:32",
+   "job_index": 53,
+   "job_id": "5499fd04-3b6d-4546-b4db-0e2aa1c0e04c",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233710_5499fd04-3b6d-4546-b4db-0e2aa1c0e04c.png",
+   "caption": "Natron paste, shaved heads, and a wig on top",
+   "file": "52_5-32.png"
+  },
+  {
+   "n": 53,
+   "timestamp": "5:39",
+   "job_index": 54,
+   "job_id": "0dee9d57-2fee-465e-8c33-9d811c9c69e8",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233710_0dee9d57-2fee-465e-8c33-9d811c9c69e8.png",
+   "caption": "Magic and medicine were the same job",
+   "file": "53_5-39.png"
+  },
+  {
+   "n": 54,
+   "timestamp": "5:44",
+   "job_index": 55,
+   "job_id": "526b37d4-7957-4dbd-a297-93b7a08a9e4e",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233710_526b37d4-7957-4dbd-a297-93b7a08a9e4e.png",
+   "caption": "Wounds packed with honey, which really is antibacterial",
+   "file": "54_5-44.png"
+  },
+  {
+   "n": 55,
+   "timestamp": "5:49",
+   "job_index": 56,
+   "job_id": "6c61d7cf-b37d-4a5c-a934-3ae4b9fae607",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233710_6c61d7cf-b37d-4a5c-a934-3ae4b9fae607.png",
+   "caption": "They also prescribed spells",
+   "file": "55_5-49.png"
+  },
+  {
+   "n": 56,
+   "timestamp": "5:54",
+   "job_index": 57,
+   "job_id": "e94d681a-9396-4040-90dd-31c1123c8f71",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233710_e94d681a-9396-4040-90dd-31c1123c8f71.png",
+   "caption": "One to treat, one to fight, one not to treat at all",
+   "file": "56_5-54.png"
+  },
+  {
+   "n": 57,
+   "timestamp": "6:00",
+   "job_index": 58,
+   "job_id": "5fa0a9fe-c83b-4a13-9daa-cf12a8f357f9",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233711_5fa0a9fe-c83b-4a13-9daa-cf12a8f357f9.png",
+   "caption": "A doctor writing down when to stop",
+   "file": "57_6-00.png"
+  },
+  {
+   "n": 58,
+   "timestamp": "6:06",
+   "job_index": 59,
+   "job_id": "510c3951-cde7-483a-a51f-98f2a00709a8",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233710_510c3951-cde7-483a-a51f-98f2a00709a8.png",
+   "caption": "Your real enemies are invisible",
+   "file": "58_6-06.png"
+  },
+  {
+   "n": 59,
+   "timestamp": "6:12",
+   "job_index": 60,
+   "job_id": "209e40d3-cc65-4836-a7d8-46eef2f7f269",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233710_209e40d3-cc65-4836-a7d8-46eef2f7f269.png",
+   "caption": "Parasites in the river; mummies still test positive",
+   "file": "59_6-12.png"
+  },
+  {
+   "n": 60,
+   "timestamp": "6:18",
+   "job_index": 61,
+   "job_id": "7985050a-af13-44dc-be2c-656d844a6b26",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233710_7985050a-af13-44dc-be2c-656d844a6b26.png",
+   "caption": "Dust wrecked lungs and small cuts turned septic",
+   "file": "60_6-18.png"
+  },
+  {
+   "n": 61,
+   "timestamp": "6:23",
+   "job_index": 62,
+   "job_id": "51bbef45-dc24-4521-ac1e-dcc7fb0955f9",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233740_51bbef45-dc24-4521-ac1e-dcc7fb0955f9.png",
+   "caption": "And then there is childbirth",
+   "file": "61_6-23.png"
+  },
+  {
+   "n": 62,
+   "timestamp": "6:28",
+   "job_index": 63,
+   "job_id": "1001deb7-be99-41d1-af15-658ab2f801e5",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233740_1001deb7-be99-41d1-af15-658ab2f801e5.png",
+   "caption": "Giving birth crouching, supported by others",
+   "file": "62_6-28.png"
+  },
+  {
+   "n": 63,
+   "timestamp": "6:33",
+   "job_index": 64,
+   "job_id": "e5f91030-2d09-4d3d-9145-66b8fde18de0",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233740_e5f91030-2d09-4d3d-9145-66b8fde18de0.png",
+   "caption": "Painted birth bricks, one found at Abydos",
+   "file": "63_6-33.png"
+  },
+  {
+   "n": 64,
+   "timestamp": "6:39",
+   "job_index": 65,
+   "job_id": "c7dd61c4-c0fc-4ccd-a0ec-b3bc9c89de7a",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233740_c7dd61c4-c0fc-4ccd-a0ec-b3bc9c89de7a.png",
+   "caption": "Many women didn't survive, and neither did many children",
+   "file": "64_6-39.png"
+  },
+  {
+   "n": 65,
+   "timestamp": "6:44",
+   "job_index": 66,
+   "job_id": "02fd0d57-672c-45a6-887d-e0e8b45418df",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233740_02fd0d57-672c-45a6-887d-e0e8b45418df.png",
+   "caption": "Marriage, though, is oddly familiar",
+   "file": "65_6-44.png"
+  },
+  {
+   "n": 66,
+   "timestamp": "6:49",
+   "job_index": 67,
+   "job_id": "e5aa0e86-4f5f-4404-996d-cc70e3b5d052",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233740_e5aa0e86-4f5f-4404-996d-cc70e3b5d052.png",
+   "caption": "No ceremony, no rite: you moved in together",
+   "file": "66_6-49.png"
+  },
+  {
+   "n": 67,
+   "timestamp": "6:54",
+   "job_index": 68,
+   "job_id": "b2e5d53b-99ae-4b0e-b574-63e6eae26d91",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233740_b2e5d53b-99ae-4b0e-b574-63e6eae26d91.png",
+   "caption": "Founding a household, and sorting out the property",
+   "file": "67_6-54.png"
+  },
+  {
+   "n": 68,
+   "timestamp": "7:00",
+   "job_index": 69,
+   "job_id": "6c1298d9-3682-45d6-b594-00931a695b37",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233740_6c1298d9-3682-45d6-b594-00931a695b37.png",
+   "caption": "In legal documents, Egyptian women own property",
+   "file": "68_7-00.png"
+  },
+  {
+   "n": 69,
+   "timestamp": "7:06",
+   "job_index": 70,
+   "job_id": "04970061-bee7-426f-8ea5-706e1897b033",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233740_04970061-bee7-426f-8ea5-706e1897b033.png",
+   "caption": "They inherit, sell, sue, testify and start divorces",
+   "file": "69_7-06.png"
+  },
+  {
+   "n": 70,
+   "timestamp": "7:13",
+   "job_index": 71,
+   "job_id": "583fa51c-1dad-4ec8-a429-e2901e86518d",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233740_583fa51c-1dad-4ec8-a429-e2901e86518d.png",
+   "caption": "Under their own names, no male guardian signing",
+   "file": "70_7-13.png"
+  },
+  {
+   "n": 71,
+   "timestamp": "7:18",
+   "job_index": 72,
+   "job_id": "2577a38d-b669-4486-b1be-34771b857df4",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_234801_2577a38d-b669-4486-b1be-34771b857df4.png",
+   "caption": "Not standard elsewhere in the ancient world",
+   "file": "71_7-18.png",
+   "regenerated": true
+  },
+  {
+   "n": 72,
+   "timestamp": "7:24",
+   "job_index": 73,
+   "job_id": "3d2290be-891e-4012-8a9d-a1e76bba4ef9",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_234801_3d2290be-891e-4012-8a9d-a1e76bba4ef9.png",
+   "caption": "Legal rights are not equality: rations went to men",
+   "file": "72_7-24.png",
+   "regenerated": true
+  },
+  {
+   "n": 73,
+   "timestamp": "7:30",
+   "job_index": 74,
+   "job_id": "f37dd9ff-0b3c-45ef-b905-5d59cb52fa7e",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233923_f37dd9ff-0b3c-45ef-b905-5d59cb52fa7e.png",
+   "caption": "She could take you to court, not take your job",
+   "file": "73_7-30.png"
+  },
+  {
+   "n": 74,
+   "timestamp": "7:36",
+   "job_index": 75,
+   "job_id": "136989b5-63f0-44c6-ab21-e065f5830dbd",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233923_136989b5-63f0-44c6-ab21-e065f5830dbd.png",
+   "caption": "Education was for a minority",
+   "file": "74_7-36.png"
+  },
+  {
+   "n": 75,
+   "timestamp": "7:41",
+   "job_index": 76,
+   "job_id": "5301c2d9-5453-4c2b-8324-dd4143eaccf1",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233923_5301c2d9-5453-4c2b-8324-dd4143eaccf1.png",
+   "caption": "Boys copied texts onto limestone flakes",
+   "file": "75_7-41.png"
+  },
+  {
+   "n": 76,
+   "timestamp": "7:46",
+   "job_index": 77,
+   "job_id": "cb291997-b02b-4fda-92f9-ad4e7e9f209f",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233923_cb291997-b02b-4fda-92f9-ad4e7e9f209f.png",
+   "caption": "Their homework survives, with the teacher's corrections",
+   "file": "76_7-46.png"
+  },
+  {
+   "n": 77,
+   "timestamp": "7:51",
+   "job_index": 78,
+   "job_id": "d8fb7fa9-f799-420e-91b1-a9335d7c3f77",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233923_d8fb7fa9-f799-420e-91b1-a9335d7c3f77.png",
+   "caption": "For the wealthy it was completely different, especially in death",
+   "file": "77_7-51.png"
+  },
+  {
+   "n": 78,
+   "timestamp": "7:58",
+   "job_index": 79,
+   "job_id": "974645db-c064-413b-abdd-ff85d1c5a6c0",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233923_974645db-c064-413b-abdd-ff85d1c5a6c0.png",
+   "caption": "70 days, natron, linen, a painted coffin",
+   "file": "78_7-58.png"
+  },
+  {
+   "n": 79,
+   "timestamp": "8:04",
+   "job_index": 80,
+   "job_id": "9b243bb1-6189-4e22-b0fe-498dca5211c1",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233923_9b243bb1-6189-4e22-b0fe-498dca5211c1.png",
+   "caption": "Or a stripped down version, or a shallow desert grave",
+   "file": "79_8-04.png"
+  },
+  {
+   "n": 80,
+   "timestamp": "8:09",
+   "job_index": 81,
+   "job_id": "03f86093-2c17-4deb-b8bf-d5e7e40ae182",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233923_03f86093-2c17-4deb-b8bf-d5e7e40ae182.png",
+   "caption": "Where dry sand did the preserving for free",
+   "file": "80_8-09.png"
+  },
+  {
+   "n": 81,
+   "timestamp": "8:14",
+   "job_index": 82,
+   "job_id": "771d002c-897d-4d15-a10c-7161b594d810",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233923_771d002c-897d-4d15-a10c-7161b594d810.png",
+   "caption": "Which is how Egyptians learned the desert preserves bodies",
+   "file": "81_8-14.png"
+  },
+  {
+   "n": 82,
+   "timestamp": "8:19",
+   "job_index": 83,
+   "job_id": "93ad34ee-f84b-4f91-9b75-ce3eede77d9b",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233923_93ad34ee-f84b-4f91-9b75-ce3eede77d9b.png",
+   "caption": "Body intact, name spoken aloud, food left at the grave",
+   "file": "82_8-19.png"
+  },
+  {
+   "n": 83,
+   "timestamp": "8:25",
+   "job_index": 84,
+   "job_id": "5ff91bfc-9342-47e3-b50c-6b978e09e138",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233923_5ff91bfc-9342-47e3-b50c-6b978e09e138.png",
+   "caption": "Or you stopped continuing",
+   "file": "83_8-25.png"
+  },
+  {
+   "n": 84,
+   "timestamp": "8:31",
+   "job_index": 85,
+   "job_id": "b59ae2bd-9e00-4a82-bf4b-7fdf5e42d6c4",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233923_b59ae2bd-9e00-4a82-bf4b-7fdf5e42d6c4.png",
+   "caption": "Feeding the busts wasn't sentiment, it was maintenance",
+   "file": "84_8-31.png"
+  },
+  {
+   "n": 85,
+   "timestamp": "8:38",
+   "job_index": 86,
+   "job_id": "9774af91-8bd4-4830-9db0-09fb330d0633",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233949_9774af91-8bd4-4830-9db0-09fb330d0633.png",
+   "caption": "Cats killed the rats and snakes going after your grain",
+   "file": "85_8-38.png"
+  },
+  {
+   "n": 86,
+   "timestamp": "8:42",
+   "job_index": 87,
+   "job_id": "01973c06-e553-4f0d-9097-fd39d3c6874f",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233949_01973c06-e553-4f0d-9097-fd39d3c6874f.png",
+   "caption": "The famous mummified cats came much later",
+   "file": "86_8-42.png"
+  },
+  {
+   "n": 87,
+   "timestamp": "8:47",
+   "job_index": 88,
+   "job_id": "4791e7c7-6468-4381-837e-effaca5cd491",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233949_4791e7c7-6468-4381-837e-effaca5cd491.png",
+   "caption": "Bred and sold to pilgrims as offerings",
+   "file": "87_8-47.png"
+  },
+  {
+   "n": 88,
+   "timestamp": "8:53",
+   "job_index": 89,
+   "job_id": "c0b7abe0-e7fe-48fa-b5c5-b7b948fd2c02",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233949_c0b7abe0-e7fe-48fa-b5c5-b7b948fd2c02.png",
+   "caption": "Roughly 700 years after your morning. Egypt changed",
+   "file": "88_8-53.png"
+  },
+  {
+   "n": 89,
+   "timestamp": "9:01",
+   "job_index": 90,
+   "job_id": "4cad0010-4c15-4008-9374-83ab4095dcaf",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233949_4cad0010-4c15-4008-9374-83ab4095dcaf.png",
+   "caption": "14 hours later, you climb back up to the roof",
+   "file": "89_9-01.png"
+  },
+  {
+   "n": 90,
+   "timestamp": "9:06",
+   "job_index": 91,
+   "job_id": "0ab746b9-3e9b-4c95-bf6d-02411a2dbc71",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233949_0ab746b9-3e9b-4c95-bf6d-02411a2dbc71.png",
+   "caption": "Bread, a family, a river, and a hippo goddess",
+   "file": "90_9-06.png"
+  },
+  {
+   "n": 91,
+   "timestamp": "9:12",
+   "job_index": 92,
+   "job_id": "8eabfb2f-eb1b-4f7c-9dbc-1aebb3eafaf1",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233949_8eabfb2f-eb1b-4f7c-9dbc-1aebb3eafaf1.png",
+   "caption": "We remember Egypt through its funerals",
+   "file": "91_9-12.png"
+  },
+  {
+   "n": 92,
+   "timestamp": "9:17",
+   "job_index": 93,
+   "job_id": "fb51557f-ec93-4586-b963-4009e3684ad0",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233949_fb51557f-ec93-4586-b963-4009e3684ad0.png",
+   "caption": "The tombs are the exception",
+   "file": "92_9-17.png"
+  },
+  {
+   "n": 93,
+   "timestamp": "9:23",
+   "job_index": 94,
+   "job_id": "ab2122da-e59c-474e-a121-409c97e7dc19",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233949_ab2122da-e59c-474e-a121-409c97e7dc19.png",
+   "caption": "You are the rule: the boss, the money",
+   "file": "93_9-23.png"
+  },
+  {
+   "n": 94,
+   "timestamp": "9:27",
+   "job_index": 95,
+   "job_id": "052a16ee-e48c-4646-b87a-bb3d62b0c75c",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233949_052a16ee-e48c-4646-b87a-bb3d62b0c75c.png",
+   "caption": "They wanted their kids to have it easier",
+   "file": "94_9-27.png"
+  },
+  {
+   "n": 95,
+   "timestamp": "9:32",
+   "job_index": 96,
+   "job_id": "bbf36f86-fd95-4dc8-8c95-54d59386f05e",
+   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233949_bbf36f86-fd95-4dc8-8c95-54d59386f05e.png",
+   "caption": "You know what to do",
+   "file": "95_9-32.png"
+  }
+ ],
+ "spare": {
+  "job_index": 35,
+  "job_id": "ba44ceea-ada8-4282-b298-f989b6511524",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Ha4592dv7FfFZ8N576BN5sPN3u/hf_20260816_233601_ba44ceea-ada8-4282-b298-f989b6511524.png"
+ }
+}
