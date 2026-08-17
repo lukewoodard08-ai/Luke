@@ -114,3 +114,14 @@ Generated with Higgsfield (`z_image`), 16:9, one job per timestamp.
 | 93 | `9:23` | You are the rule: the boss, the money | `93_9-23.png` |
 | 94 | `9:27` | They wanted their kids to have it easier | `94_9-27.png` |
 | 95 | `9:32` | You know what to do | `95_9-32.png` |
+
+## Video
+
+`egypt-doodles-9m40s.mp4` — 1920x1080, 30 fps, 9:40, silent. Each still cuts in
+exactly on its corrected timestamp and holds until the next one; the final shot
+holds 8 seconds. Drop a narration track under it in any editor and the cuts land
+on the script.
+
+`egypt-doodles-shotguide.srt` — one cue per shot, labelled with its number and
+subject. Import as a subtitle track to see shot boundaries on the timeline, then
+delete it before export.
