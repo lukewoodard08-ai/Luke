@@ -117,7 +117,7 @@ Generated with Higgsfield (`z_image`), 16:9, one job per timestamp.
 
 ## Video
 
-`egypt-doodles-9m40s.mp4` — 1920x1080, 30 fps, 9:40, silent. Each still cuts in
+`egypt-narrated-1080p.mp4` — 1920x1080, 24 fps, 10:48, **with narration**. Voice: Grady
 exactly on its corrected timestamp and holds until the next one; the final shot
 holds 8 seconds. Drop a narration track under it in any editor and the cuts land
 on the script.
