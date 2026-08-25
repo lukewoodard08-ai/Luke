@@ -1,0 +1,8 @@
+# Kalshi trading agent — minimal dependency set (Base44-friendly).
+# Only two third-party packages are required at runtime.
+requests>=2.31.0
+cryptography>=42.0.0
+
+# Optional: local .env loading during development. The agent runs fine without
+# it — config.py falls back to plain os.getenv when python-dotenv is absent.
+python-dotenv>=1.0.0
